@@ -1,4 +1,3 @@
-```markdown
 # VM3 (Véhicule Moins 3ans)
 
 **VM3** is a React Native mobile application developed by NaxaTech. It helps users calculate the total cost of importing vehicles that are less than three years old. The app factors in customs duties, VAT, and other applicable taxes to provide an accurate total price. With an intuitive interface, VM3 ensures quick and easy vehicle price calculations on mobile devices.
@@ -24,7 +23,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/VM3.git
+   git clone https://github.com/AbdelhalimBj/VM3.git
    ```
 
 2. Navigate to the project directory:
